@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="name1">First name</string>
+    <string name="name2">Last name</string>
+    <string name="name3">Patronymic</string>
+    <string name="done">Done</string>
+    <string name="avatar">Avatar</string>
+</resources>

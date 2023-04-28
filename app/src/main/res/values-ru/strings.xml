@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="sign_in">Вход</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="name1">Имя</string>
+    <string name="name2">Фамилия</string>
+    <string name="name3">Отчество</string>
+    <string name="done">Готово</string>
+    <string name="avatar">Аватар</string>
+</resources>
